@@ -1,6 +1,6 @@
 # ZygiskFuture
 
-中文 | English | [扎扎。语？]()
+中文 | [English](https://github.com/ZygiskFuture/ZygiskFuture/blob/main/doc/READMEen.md)
 
 项目当前状态：还在画饼
 
